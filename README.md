@@ -30,9 +30,9 @@ English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Spa
 
 ## Introduction
 
-[vue-element-admin](https://panjiachen.github.io/vue-element-admin) is a production-ready front-end solution for admin interfaces. It based on [vue](https://github.com/vuejs/vue) and use the UI Toolkit [element-ui](https://github.com/ElemeFE/element).
+[vue-element-admin](https://panjiachen.github.io/vue-element-admin) is a production-ready front-end solution for admin interfaces. It is based on [vue](https://github.com/vuejs/vue) and uses the UI Toolkit [element-ui](https://github.com/ElemeFE/element).
 
-It is a magical vue admin based on the newest development stack of vue, built-in i18n solution, typical templates for enterprise applications, lots of awesome features. It helps you build a large complex Single-Page Applications. I believe whatever your needs are, this project will help you.
+[vue-element-admin](https://panjiachen.github.io/vue-element-admin) is based on the newest development stack of vue and it has a built-in i18n solution, typical templates for enterprise applications, and lots of awesome features. It helps you build large and complex Single-Page Applications. I believe whatever your needs are, this project will help you.
 
 - [Preview](https://panjiachen.github.io/vue-element-admin)
 
@@ -49,6 +49,7 @@ It is a magical vue admin based on the newest development stack of vue, built-in
 - Base template recommends using: [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 - Desktop: [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
 - Typescript: [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) (Credits: [@Armour](https://github.com/Armour))
+- [awesome-project](https://github.com/PanJiaChen/vue-element-admin/issues/2312)
 
 **After the `v4.1.0+` version, the default master branch will not support i18n. Please use [i18n Branch](https://github.com/PanJiaChen/vue-element-admin/tree/i18n), it will keep up with the master update**
 
